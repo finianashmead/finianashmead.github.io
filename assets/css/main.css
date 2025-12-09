@@ -1647,3 +1647,10 @@ button {
 	body.is-preload #footer {
 		opacity: 0;
 	}
+
+
+#wrapper #project1-plot {
+    max-width: 1100px;
+    padding: 2em;       /* optional: increase padding */
+}
+
