@@ -1654,3 +1654,8 @@ button {
     padding: 2em;       /* optional: increase padding */
 }
 
+#project1-plot iframe {
+    width: 100%;
+    height: 600px;  /* adjust as needed */
+}
+
